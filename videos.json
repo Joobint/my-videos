@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Big Buck Bunny",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+    "category": "Animation"
+  },
+  {
+    "title": "Elephant Dream",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/73/Elephants_Dream_s1_proog.jpg",
+    "category": "Sci-Fi"
+  }
+]
