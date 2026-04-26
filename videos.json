@@ -7,26 +7,26 @@
   {
     "title": "Sintel",
     "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
-    "thumbnail": "https://picsum.photos/300/200?2"
+    "thumbnail": "https://picsum.photos/600/600?2"
   },
   {
     "title": "Tears of Steel",
     "url": "https://test-streams.mux.dev/pts_shift/master.m3u8",
-    "thumbnail": "https://picsum.photos/300/200?3"
+    "thumbnail": "https://picsum.photos/600/600?3"
   },
   {
     "title": "BBB Variant",
     "url": "https://test-streams.mux.dev/bbb-360p.m3u8",
-    "thumbnail": "https://picsum.photos/300/200?4"
+    "thumbnail": "https://picsum.photos/600/600?4"
   },
   {
      "title": "Live Stream",
      "url": "https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8",
-     "thumbnail": "https://picsum.photos/300/200?5"
+     "thumbnail": "https://picsum.photos/600/600?5"
   },
   {
     "title": "Sports Stream",
     "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
-    "thumbnail": "https://picsum.photos/300/200?6"
+    "thumbnail": "https://picsum.photos/600/600?6"
   }
 ]
