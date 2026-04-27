@@ -3,144 +3,221 @@
     "title": "Big Buck Bunny",
     "category": "Animation",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-    "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg"
+    "thumbnail": "https://picsum.photos/300/200?1"
   },
   {
     "title": "Sintel",
     "category": "Animation",
     "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sintel_poster.jpg"
-  },
-  {
-    "title": "Tears of Steel",
-    "category": "Movies",
-    "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Tears_of_Steel_poster.jpg"
-  },
-  {
-    "title": "Apple Test Stream",
-    "category": "Testing",
-    "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
-    "thumbnail": "https://developer.apple.com/assets/elements/icons/http-live-streaming/http-live-streaming-96x96_2x.png"
-  },
-  {
-    "title": "Akamai Live Stream",
-    "category": "Live",
-    "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Live_streaming_icon.png"
-  },
-
-  {
-    "title": "Nature Clip 1",
-    "category": "Nature",
-    "url": "https://test-streams.mux.dev/bbb-abr/playlist.m3u8",
-    "thumbnail": "https://picsum.photos/300/200?1"
-  },
-  {
-    "title": "Nature Clip 2",
-    "category": "Nature",
-    "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
     "thumbnail": "https://picsum.photos/300/200?2"
   },
   {
-    "title": "Nature Clip 3",
-    "category": "Nature",
-    "url": "https://test-streams.mux.dev/test_002/stream.m3u8",
+    "title": "Tears of Steel",
+    "category": "Animation",
+    "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
     "thumbnail": "https://picsum.photos/300/200?3"
   },
-
   {
-    "title": "Movie Clip 1",
-    "category": "Movies",
-    "url": "https://test-streams.mux.dev/test_003/stream.m3u8",
+    "title": "Nature Flow 1",
+    "category": "Animation",
+    "url": "https://test-streams.mux.dev/bbb-abr/playlist.m3u8",
     "thumbnail": "https://picsum.photos/300/200?4"
   },
   {
-    "title": "Movie Clip 2",
-    "category": "Movies",
-    "url": "https://test-streams.mux.dev/test_004/stream.m3u8",
+    "title": "Nature Flow 2",
+    "category": "Animation",
+    "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
     "thumbnail": "https://picsum.photos/300/200?5"
   },
   {
-    "title": "Movie Clip 3",
-    "category": "Movies",
-    "url": "https://test-streams.mux.dev/test_005/stream.m3u8",
+    "title": "Nature Flow 3",
+    "category": "Animation",
+    "url": "https://test-streams.mux.dev/test_002/stream.m3u8",
     "thumbnail": "https://picsum.photos/300/200?6"
   },
 
   {
-    "title": "Music Video 1",
-    "category": "Music",
-    "url": "https://test-streams.mux.dev/test_006/stream.m3u8",
+    "title": "Movie Action 1",
+    "category": "Movies",
+    "url": "https://test-streams.mux.dev/test_003/stream.m3u8",
     "thumbnail": "https://picsum.photos/300/200?7"
   },
   {
-    "title": "Music Video 2",
-    "category": "Music",
-    "url": "https://test-streams.mux.dev/test_007/stream.m3u8",
+    "title": "Movie Action 2",
+    "category": "Movies",
+    "url": "https://test-streams.mux.dev/test_004/stream.m3u8",
     "thumbnail": "https://picsum.photos/300/200?8"
   },
   {
-    "title": "Music Video 3",
-    "category": "Music",
-    "url": "https://test-streams.mux.dev/test_008/stream.m3u8",
+    "title": "Movie Action 3",
+    "category": "Movies",
+    "url": "https://test-streams.mux.dev/test_005/stream.m3u8",
     "thumbnail": "https://picsum.photos/300/200?9"
   },
-
   {
-    "title": "Sports Clip 1",
-    "category": "Sports",
-    "url": "https://test-streams.mux.dev/test_009/stream.m3u8",
+    "title": "Movie Action 4",
+    "category": "Movies",
+    "url": "https://test-streams.mux.dev/test_006/stream.m3u8",
     "thumbnail": "https://picsum.photos/300/200?10"
   },
   {
-    "title": "Sports Clip 2",
-    "category": "Sports",
-    "url": "https://test-streams.mux.dev/test_010/stream.m3u8",
+    "title": "Movie Action 5",
+    "category": "Movies",
+    "url": "https://test-streams.mux.dev/test_007/stream.m3u8",
     "thumbnail": "https://picsum.photos/300/200?11"
   },
   {
-    "title": "Sports Clip 3",
-    "category": "Sports",
-    "url": "https://test-streams.mux.dev/test_011/stream.m3u8",
+    "title": "Movie Action 6",
+    "category": "Movies",
+    "url": "https://test-streams.mux.dev/test_008/stream.m3u8",
     "thumbnail": "https://picsum.photos/300/200?12"
+  },
+
+  {
+    "title": "Music Beat 1",
+    "category": "Music",
+    "url": "https://test-streams.mux.dev/test_009/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?13"
+  },
+  {
+    "title": "Music Beat 2",
+    "category": "Music",
+    "url": "https://test-streams.mux.dev/test_010/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?14"
+  },
+  {
+    "title": "Music Beat 3",
+    "category": "Music",
+    "url": "https://test-streams.mux.dev/test_011/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?15"
+  },
+  {
+    "title": "Music Beat 4",
+    "category": "Music",
+    "url": "https://test-streams.mux.dev/test_012/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?16"
+  },
+  {
+    "title": "Music Beat 5",
+    "category": "Music",
+    "url": "https://test-streams.mux.dev/test_013/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?17"
+  },
+  {
+    "title": "Music Beat 6",
+    "category": "Music",
+    "url": "https://test-streams.mux.dev/test_014/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?18"
+  },
+
+  {
+    "title": "Sports Live 1",
+    "category": "Sports",
+    "url": "https://test-streams.mux.dev/test_015/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?19"
+  },
+  {
+    "title": "Sports Live 2",
+    "category": "Sports",
+    "url": "https://test-streams.mux.dev/test_016/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?20"
+  },
+  {
+    "title": "Sports Live 3",
+    "category": "Sports",
+    "url": "https://test-streams.mux.dev/test_017/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?21"
+  },
+  {
+    "title": "Sports Live 4",
+    "category": "Sports",
+    "url": "https://test-streams.mux.dev/test_018/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?22"
+  },
+  {
+    "title": "Sports Live 5",
+    "category": "Sports",
+    "url": "https://test-streams.mux.dev/test_019/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?23"
+  },
+  {
+    "title": "Sports Live 6",
+    "category": "Sports",
+    "url": "https://test-streams.mux.dev/test_020/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?24"
   },
 
   {
     "title": "Kids Cartoon 1",
     "category": "Kids",
-    "url": "https://test-streams.mux.dev/test_012/stream.m3u8",
-    "thumbnail": "https://picsum.photos/300/200?13"
+    "url": "https://test-streams.mux.dev/test_021/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?25"
   },
   {
     "title": "Kids Cartoon 2",
     "category": "Kids",
-    "url": "https://test-streams.mux.dev/test_013/stream.m3u8",
-    "thumbnail": "https://picsum.photos/300/200?14"
+    "url": "https://test-streams.mux.dev/test_022/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?26"
   },
   {
     "title": "Kids Cartoon 3",
     "category": "Kids",
-    "url": "https://test-streams.mux.dev/test_014/stream.m3u8",
-    "thumbnail": "https://picsum.photos/300/200?15"
+    "url": "https://test-streams.mux.dev/test_023/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?27"
+  },
+  {
+    "title": "Kids Cartoon 4",
+    "category": "Kids",
+    "url": "https://test-streams.mux.dev/test_024/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?28"
+  },
+  {
+    "title": "Kids Cartoon 5",
+    "category": "Kids",
+    "url": "https://test-streams.mux.dev/test_025/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?29"
+  },
+  {
+    "title": "Kids Cartoon 6",
+    "category": "Kids",
+    "url": "https://test-streams.mux.dev/test_026/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?30"
   },
 
   {
     "title": "Tech Demo 1",
     "category": "Technology",
-    "url": "https://test-streams.mux.dev/test_015/stream.m3u8",
-    "thumbnail": "https://picsum.photos/300/200?16"
+    "url": "https://test-streams.mux.dev/test_027/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?31"
   },
   {
     "title": "Tech Demo 2",
     "category": "Technology",
-    "url": "https://test-streams.mux.dev/test_016/stream.m3u8",
-    "thumbnail": "https://picsum.photos/300/200?17"
+    "url": "https://test-streams.mux.dev/test_028/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?32"
   },
   {
     "title": "Tech Demo 3",
     "category": "Technology",
-    "url": "https://test-streams.mux.dev/test_017/stream.m3u8",
-    "thumbnail": "https://picsum.photos/300/200?18"
+    "url": "https://test-streams.mux.dev/test_029/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?33"
+  },
+  {
+    "title": "Tech Demo 4",
+    "category": "Technology",
+    "url": "https://test-streams.mux.dev/test_030/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?34"
+  },
+  {
+    "title": "Tech Demo 5",
+    "category": "Technology",
+    "url": "https://test-streams.mux.dev/test_031/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?35"
+  },
+  {
+    "title": "Tech Demo 6",
+    "category": "Technology",
+    "url": "https://test-streams.mux.dev/test_032/stream.m3u8",
+    "thumbnail": "https://picsum.photos/300/200?36"
   }
 ]
