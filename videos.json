@@ -1,14 +1,6 @@
 [
   {
     "title": "Big Buck Bunny",
-    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-    "thumbnail": "https://picsum.photos/300/200?1"
-  },
-  {
-    "title": "Sintel",
-    "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",[
-  {
-    "title": "Big Buck Bunny",
     "category": "Animation",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg"
@@ -150,28 +142,5 @@
     "category": "Technology",
     "url": "https://test-streams.mux.dev/test_017/stream.m3u8",
     "thumbnail": "https://picsum.photos/300/200?18"
-  }
-]
-    "thumbnail": "https://picsum.photos/300/200?2"
-  },
-  {
-    "title": "Tears of Steel",
-    "url": "https://test-streams.mux.dev/pts_shift/master.m3u8",
-    "thumbnail": "https://picsum.photos/300/200?3"
-  },
-  {
-    "title": "BBB Variant",
-    "url": "https://test-streams.mux.dev/bbb-360p.m3u8",
-    "thumbnail": "https://picsum.photos/300/200?4"
-  },
-  {
-     "title": "Live Stream",
-     "url": "https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8",
-     "thumbnail": "https://picsum.photos/300/200?5"
-  },
-  {
-    "title": "Sports Stream",
-    "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
-    "thumbnail": "https://picsum.photos/300/200?6"
   }
 ]
